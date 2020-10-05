@@ -1,0 +1,19 @@
+{
+  "name": "a_better_chess_bot",
+  "version": "1.0.0",
+  "description": "A better chess bot",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chess",
+    "bot",
+    "discord.js"
+  ],
+  "author": "FirstPotatoMan",
+  "license": "MIT",
+  "dependencies": {
+    "chess": "^0.4.3"
+  }
+}
