@@ -1,0 +1,8 @@
+{
+    "prefix": "%",
+    "token": "YOUR-TOKEN-HERE",
+    "activity": "-help",
+    "color": "#c13640",
+    "botName": "Better Chess Bot",
+    "version": "0.0.1"
+}
