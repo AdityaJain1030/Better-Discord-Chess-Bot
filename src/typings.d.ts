@@ -11,3 +11,10 @@ export interface Command {
 export interface CommandClient extends Client{
     commands?: Collection<string, Command>
 }
+
+export interface Game {
+    p1uid: string,
+    p2uid: string,
+    pgn: string,
+    starttime: string
+}

@@ -1,3 +1,4 @@
 node_modules
 buildlog
 dist
+src/data/config.json

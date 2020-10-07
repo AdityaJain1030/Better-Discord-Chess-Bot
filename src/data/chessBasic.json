@@ -1,13 +1,4 @@
 {
     "blacklisted":[""],
-    "chessChannels": ["747959791309160498"],
-    "userInfo": [
-        {
-            "rating": 0,
-            "id": "",
-            "wins": 0,
-            "losses": 0,
-            "draws": 0
-        }
-    ]
+    "chessChannels": ["747959791309160498"]
 }
